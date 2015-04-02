@@ -1,6 +1,8 @@
 PHP Simple HTML DOM Parser
 ==========================
 
+This repository is a manual git clone from [SourceForge](https://informa.link/408de42d/PHP+Simple+HTML+DOM+Parser).
+
 ## Description, Requirements & Features
 - A HTML DOM parser written in PHP+ which lets you manipulate HTML in a very easy way.
 - Requires PHP 5+
